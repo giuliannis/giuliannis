@@ -1,11 +1,9 @@
-### <center> Olá! Me chamo Giulianni e trabalho como QA. Sejam bem vindos ao meu perfil do GitHub. </center>
-____
+### <h2 align="center" dir="auto"> Olá! Me chamo Giulianni e trabalho como QA. Sejam bem vindos ao meu perfil do GitHub. </h2>
 
 [![Giulianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliannis&show_icons=true&theme=dracula)](https://github.com/giuliannis/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannis&layout=compact&show_icons=true&theme=dracula)](https://github.com/giuliannis/github-readme-stats)
 
-___
 
-#### <center> Minhas linguagens de programação: </center>
+#### <h2 align="center" dir="auto"> Minhas linguagens de programação: </h2>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -15,9 +13,8 @@ ___
 
 </div>
 
-_____
 
-#### <center> Algumas ferramentas que possuo conhecimento: </center>
+#### <h2 align="center" dir="auto"> Algumas ferramentas que possuo conhecimento: </h2>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -27,11 +24,10 @@ _____
 <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 
-___
 
 
-#### <center> Entre em contato comigo: </center>
+#### <h2 align="center" dir="auto"> Entre em contato comigo: </h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/giulianni/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](https://www.linkedin.com/in/giulianni/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:giuliannioliveira@gmail.com?subject=Ola%20Giulianni,%20Venho%20do%20Github)
