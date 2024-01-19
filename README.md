@@ -1,5 +1,8 @@
-### <h2 align="center" dir="auto"> Olá! Me chamo Giulianni e trabalho como QA. Sejam bem vindos ao meu perfil do GitHub. </h2>
+### <h2 align="center" dir="auto"> Sejam bem vindos! </h2>
+<p align="center" dir="auto">
+  <samp>Me chamo Giulianni, sou formada em Engenharia da Computação e atualmente trabalho como QA. O objetivo desse repositório guardar os projetos pessoais que fiz para finalidade de estudo. Caso queiram entrar em contato comigo mais abaixo se encontra o meu perfil do Linkedin e o meu email pessoal. </samp><br><br>
 
+#### <h2 align="center" dir="auto"> Meu GitHub Stats: </h2>
 [![Giulianni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliannis&show_icons=true&theme=dracula)](https://github.com/giuliannis/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannis&layout=compact&show_icons=true&theme=dracula)](https://github.com/giuliannis/github-readme-stats)
 
 
@@ -30,4 +33,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/giulianni/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:giuliannioliveira@gmail.com?subject=Ola%20Giulianni,%20Venho%20do%20Github)
+)](mailto:giulianni.oliveira@outlook.com?subject=Ola%20Giulianni,%20Venho%20do%20Github)
