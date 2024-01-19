@@ -1,9 +1,9 @@
-### <h2 align="center" dir="auto"> Sejam bem vindos! </h2>
+### <h2 align="center" dir="auto"> 👋 Sejam bem vindos! </h2>
 <p align="center" dir="auto">
   <samp>Me chamo Giulianni, sou formada em Engenharia da Computação e atualmente trabalho como QA. O objetivo desse repositório guardar os projetos pessoais que fiz para finalidade de estudo. Caso queiram entrar em contato comigo mais abaixo se encontra o meu perfil do Linkedin e o meu email pessoal. </samp><br><br>
 
 <div align="center">
-  <h2>Meus stats:</h2>
+  <h2>📊 Meus stats:</h2>
   <a href="https://github.com/giuliannis/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=giuliannis&show_icons=true&theme=dracula" alt="Giulianni's GitHub stats">
   </a>
@@ -13,7 +13,7 @@
 </div>
 
 
-#### <h2 align="center" dir="auto"> Minhas linguagens de programação: </h2>
+#### <h2 align="center" dir="auto">👩‍💻 Minhas linguagens de programação: </h2>
 
 <div align="center"><div style="display: inline_block"><br/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,7 +24,7 @@
 </div></div><br>
 
 
-#### <h2 align="center" dir="auto"> Algumas ferramentas que possuo conhecimento: </h2>
+#### <h2 align="center" dir="auto">🛠️ Algumas ferramentas que possuo conhecimento: </h2>
 
 <div align="center"><div style="display: inline_block"><br/>
 <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 
 
-#### <h2 align="center" dir="auto"> Entre em contato comigo: </h2>
+#### <h2 align="center" dir="auto">📭 Entre em contato comigo: </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/giulianni/">
