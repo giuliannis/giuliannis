@@ -1,6 +1,6 @@
 ### <h2 align="center" dir="auto"> 👋 Sejam bem vindos! </h2>
 <p align="center" dir="auto">
-  <samp>Me chamo Giulianni, sou formada em Engenharia da Computação e atualmente trabalho como QA. O objetivo desse repositório guardar os projetos pessoais que fiz para finalidade de estudo. Caso queiram entrar em contato comigo mais abaixo se encontra o meu perfil do Linkedin e o meu email pessoal. </samp><br><br>
+  <samp>Me chamo Giulianni, sou formada em Engenharia da Computação e atualmente trabalho como QA. O objetivo desse repositório é guardar os projetos pessoais que fiz para a finalidade de estudo. Caso queiram entrar em contato comigo mais abaixo se encontra o meu perfil do Linkedin e o meu email pessoal. </samp><br><br>
 
 <div align="center">
   <h2>📊 Meus stats:</h2>
