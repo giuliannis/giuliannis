@@ -14,8 +14,7 @@
 
 
 #### <h2 align="center" dir="auto">👩‍💻 Minhas linguagens de programação: </h2>
-
-<div align="center"><div style="display: inline_block"><br/>
+<div align="center"><div style="display: inline_block">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -25,8 +24,7 @@
 
 
 #### <h2 align="center" dir="auto">🛠️ Algumas ferramentas que possuo conhecimento: </h2>
-
-<div align="center"><div style="display: inline_block"><br/>
+<div align="center"><div style="display: inline_block">
 <img align="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img align="center" alt="cucumber" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white"/>
 <img align="center" alt="playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
@@ -37,7 +35,6 @@
 
 
 #### <h2 align="center" dir="auto">📭 Entre em contato comigo: </h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/giulianni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
