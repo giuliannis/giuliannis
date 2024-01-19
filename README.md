@@ -5,10 +5,10 @@
 <div align="center">
   <h2>📊 Meus stats:</h2>
   <a href="https://github.com/giuliannis/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=giuliannis&show_icons=true&theme=dracula" alt="Giulianni's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=giuliannis&hide=contribs&theme=radical&show_icons=true" alt="Giulianni's GitHub stats">
   </a>
   <a href="https://github.com/giuliannis/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannis&layout=compact&show_icons=true&theme=dracula" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliannis&layout=compact&show_icons=true&theme=radical" alt="Top Langs">
   </a>
 </div>
 
